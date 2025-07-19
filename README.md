@@ -80,7 +80,7 @@ Each query is documented and organized by difficulty:
 ---
 
 ## 🔗 Download SQL File
-[Click to view raw SQL file](https://raw.githubusercontent.com/yourusername/sql-music-store-analysis/main/music_store_analysis.sql)
+[Click to view raw SQL file](https://1drv.ms/u/c/9ee0b891366d7cb1/EbwgGbE3T-5IhBHaAcc6FpIB0qhm4UvT78SBpvPysgMwgg?e=Rh5jC8)
 
 ---
 
